@@ -7,7 +7,7 @@ class Count
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		int count=0,num=548;
+		int count=0,num=5480;
 		while(num!=0)
 		{
 			num/=10;
