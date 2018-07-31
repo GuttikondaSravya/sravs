@@ -8,7 +8,7 @@ class Ideone
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		
-        int low = 999, high = 99999;
+        int low = 150, high = 160;
 
         for(int number = low + 1; number < high; ++number) {
             int digits = 0;
