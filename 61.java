@@ -1,7 +1,8 @@
 import java.util.*;
 import java.lang.*;
 import java.util.ArrayList;
-class charf{
+class Ideone
+{
      public static void main(String aa[]){
      String d;
      int n;
