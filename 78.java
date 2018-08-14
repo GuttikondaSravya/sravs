@@ -9,8 +9,8 @@ class Ideone
 	{
 		int n=78;
 		if(n%13==0)
-		System.out.print("Yes");
+		System.out.print("yes");
 		else
-		System.out.print("No");
+		System.out.print("no");
 	}
 }
