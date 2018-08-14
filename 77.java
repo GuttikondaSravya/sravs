@@ -8,7 +8,7 @@ import java.util.Scanner;
 		{
 			if(n%i==0)
 			{
-				System.out.print(" "+i);
+				System.out.print(i+" ");
 			}
 		
 	}
