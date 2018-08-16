@@ -26,7 +26,7 @@ class Ideone
 			rem=n%10;
 			if(rem%2!=0)
 			{
-				System.out.print(rem+" ");
+				System.out.print(rem+"");
 			}
 			n=n/10;
 		}
